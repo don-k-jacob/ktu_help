@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "500468829460",
+    "firebase_url": "https://cool-keel-241218.firebaseio.com",
+    "project_id": "cool-keel-241218",
+    "storage_bucket": "cool-keel-241218.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500468829460:android:e2b0f163cb163bdf4f8601",
+        "android_client_info": {
+          "package_name": "om.tatos.nexuz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500468829460-au268ikk6hmcqil3t3e148tke46ptbne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD38T9Fb4b7RBJmaPUZGgRxDxkAPICJIis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500468829460-au268ikk6hmcqil3t3e148tke46ptbne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
